@@ -22,11 +22,11 @@ Course readings will include \*[Data Feminism](https://mitpressonpubpub.mitpress
 # Syllabus
 |WHEN |	WHAT |	WHY |	HOW |
 |:--|:---|:------|:----|
-|1.19 |	DH tapas | Noble, Toward a Critical Black DH (DHD)<br />Ridolfo & Hart-Davidson, Intro (RDH)<br />Warren et al., [Six Degrees of F. Bacon](http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html)<br />Arnold & Tilton, New Data (DHD)<br />Mul & Masson, [Data-based Art](https://www.tmgonline.nl/articles/10.18146/2213-7653.2018.375/) | |
+|1.19 |	DH Tapas | Noble, Toward a Critical Black DH (DHD)<br />Ridolfo & Hart-Davidson, Intro (RDH)<br />Warren et al., [Six Degrees of F. Bacon](http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html)<br />Arnold & Tilton, New Data (DHD)<br />Mul & Masson, [Data-based Art](https://www.tmgonline.nl/articles/10.18146/2213-7653.2018.375/) | |
 |1.26 |	DH Discontents |	Allington, Brouillette, Golumbia, [Neoliberal](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) <br /> Roh, The DH Bubble (DHD) <br />Long & Baker, The Elusive (DHD) |	Get ‘R Started |
 |2.2 |	Critical DH | 	Benjamin, Race After Technology |	Git Connected |
 |2.9 |	Critical DH |	Brown, Crossing State (RDH) <br />Sano-Franchini, Cultural Rhetorics (RDH) <br />Hicks, Sexism is a Feature | Data Wrangling|
-|2.16 |	Archival DH <br />[Feat. Lars Hinrichs](https://liberalarts.utexas.edu/english/faculty/profile.php?eid=lh9896)	| Sherratt, Unremembering (DHD <br /> Ward & Wisnicki, The Archive (DHD) <br />Smiley, From Humanities to (DHD) <br /> Eyeman & Ball, DH Scholarship (RDH) |	Text Analytics |
+|2.16 |	Archival DH <br />[Feat. Lars Hinrichs](https://liberalarts.utexas.edu/english/faculty/profile.php?eid=lh9896)	| Sherratt, Unremembering (DHD) <br /> Ward & Wisnicki, The Archive (DHD) <br />Smiley, From Humanities to (DHD) <br /> Eyeman & Ball, DH Scholarship (RDH) |	Text Analytics |
 |2.23 |	I can haz \$\$? |	[NEH DH Advancement](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) <br /> [NEH Digital Projects for the Public](https://www.neh.gov/grants/public/digital-projects-the-public) <br /> [FIC Undergraduate Teaching Grant](https://utexas.app.box.com/s/j0aofecfl9d1my4whlxqwf5plneasi46) |	**Lit Review Due** |
 |3.2 |Empirical DH |	Manovich, The Science of Culture <br /> Graham, The Science of Intuition ||
 |3.9 |Empirical DH |	Underwood, Distant Horizons	||
@@ -39,6 +39,12 @@ Course readings will include \*[Data Feminism](https://mitpressonpubpub.mitpress
 |4.27	|Experimental DH<br />[Feat. Casey Boyle](http://caseyboyle.net/)|Binder et al., [Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)<br />Underwood, [Mapping](https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/#_ftn14)<br />Kishi, et al, [Perturbative GAN](https://arxiv.org/ftp/arxiv/papers/1902/1902.01514.pdf) |Generative Sandboxes|
 |5.4	|Tech Demos|Tech Demos|**Tech Demos**|
 |5.11	|**Finals Week**|	**Finals Week**|**Project Due**|
+
+# Version History  
+* Spring 2022 Version 1.0 
+
+# Liscence 
+This syllabus is licensed under the [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/) License.
 
 # Acknowledgements 
 * The "[Octopus Assignment](assets/Octopus_Assignment.pdf)" is adapted from Dr. Courtney Thompson's [Choose Your Own Adventure Assignment](https://twitter.com/Dr_C_Thompson/status/1333492508677058561?s=20).
