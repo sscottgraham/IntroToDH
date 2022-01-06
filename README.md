@@ -5,7 +5,7 @@ This course is a hands-on introduction to the history, theory, and practice of t
 
 # FAQs
 * **What:** E 388M / INF 383H 
-* **When:** M 6-9
+* **When:** W 6-9
 * **Where:** PAR 104
 * **Who:** [S. Scott Graham](https://sscottgraham.com)
 
