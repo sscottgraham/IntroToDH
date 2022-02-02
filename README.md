@@ -6,7 +6,7 @@ This course is a hands-on introduction to the history, theory, and practice of t
 # FAQs
 * **What:** E 388M / INF 383H 
 * **When:** W 6-9
-* **Where:** PAR 104
+* **Where:** PAR 102
 * **Who:** [S. Scott Graham](https://sscottgraham.com)
 
 # Assignments 
@@ -27,7 +27,7 @@ Course readings will include \*[Data Feminism](https://mitpressonpubpub.mitpress
 |2.2 |	Critical DH | 	Benjamin, Race After Technology |	Git Connected |
 |2.9 |	Critical DH |	Brown, Crossing State (RDH) <br />Sano-Franchini, Cultural Rhetorics (RDH) <br />Hicks, Sexism is a Feature | Data Wrangling|
 |2.16 |	Archival DH <br />[Feat. Lars Hinrichs](https://liberalarts.utexas.edu/english/faculty/profile.php?eid=lh9896)	| Sherratt, Unremembering (DHD) <br /> Ward & Wisnicki, The Archive (DHD) <br />Smiley, From Humanities to (DHD) <br /> Eyeman & Ball, DH Scholarship (RDH) |	Text Analytics |
-|2.23 |	I can haz \$\$? |	[NEH DH Advancement](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) <br /> [NEH Digital Projects for the Public](https://www.neh.gov/grants/public/digital-projects-the-public) <br /> [FIC Undergraduate Teaching Grant](https://utexas.app.box.com/s/j0aofecfl9d1my4whlxqwf5plneasi46) |	**Lit Review Due** |
+|2.23 |	I can haz \$\$? |	[NEH DH Advancement](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) <br /> [NEH Digital Projects for the Public](https://www.neh.gov/grants/public/digital-projects-the-public) <br /> [FIC Undergraduate Teaching Grant](https://utexas.app.box.com/s/j0aofecfl9d1my4whlxqwf5plneasi46) |	**Bib Due** |
 |3.2 |Empirical DH |	Manovich, The Science of Culture <br /> Graham, The Science of Intuition ||
 |3.9 |Empirical DH |	Underwood, Distant Horizons	||
 |3.16 |	**SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK** |
