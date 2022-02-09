@@ -26,7 +26,7 @@ Course readings will include \*[Data Feminism](https://mitpressonpubpub.mitpress
 |1.26 |	DH Discontents |	Allington, Brouillette, Golumbia, [Neoliberal](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) <br /> Roh, The DH Bubble (DHD) <br />Long & Baker, The Elusive (DHD) |	Get ‘R Started |
 |2.2 |	Critical DH | 	Benjamin, Race After Technology |	Git Connected |
 |2.9 |	Critical DH |	Brown, Crossing State (RDH) <br />Sano-Franchini, Cultural Rhetorics (RDH) <br />Hicks, Sexism is a Feature | Data Wrangling|
-|2.16 |	Archival DH <br />[Feat. Lars Hinrichs](https://liberalarts.utexas.edu/english/faculty/profile.php?eid=lh9896)	| Sherratt, Unremembering (DHD) <br /> Ward & Wisnicki, The Archive (DHD) <br />Smiley, From Humanities to (DHD) <br /> Eyeman & Ball, DH Scholarship (RDH) |	Text Analytics |
+|2.16 |	Archival DH <br />[Feat. Lars Hinrichs](https://liberalarts.utexas.edu/english/faculty/profile.php?eid=lh9896)	| Sherratt, Unremembering (DHD) <br /> Ward & Wisnicki, The Archive (DHD) <br />Smiley, From Humanities to (DHD) <br /> Eyeman & Ball, DH Scholarship (RDH) <br />  Gemma & Kennedy (skim) <br /> Underwood, 1988 (skim) |	Text Analytics |
 |2.23 |	I can haz \$\$? |	[NEH DH Advancement](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) <br /> [NEH Digital Projects for the Public](https://www.neh.gov/grants/public/digital-projects-the-public) <br /> [FIC Undergraduate Teaching Grant](https://utexas.app.box.com/s/j0aofecfl9d1my4whlxqwf5plneasi46) |	**Bib Due** |
 |3.2 |Empirical DH |	Manovich, The Science of Culture <br /> Graham, The Science of Intuition ||
 |3.9 |Empirical DH |	Underwood, Distant Horizons	||
