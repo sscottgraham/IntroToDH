@@ -36,7 +36,7 @@ Course readings will include \*[Data Feminism](https://mitpressonpubpub.mitpress
 |4.6 |Interventional DH| D’Ignazio & Klien, Data Feminism	||
 |4.13 |Interventional DH|	Williams, Share it & Data as Public Good<br />Graham & Hopkins, AI for Social Justice|	Feature Engineering|
 |4.20	|Interventional DH|	Rice & Rice, Pop-Up Archives (RDH)<br />[Breast Pump Hackathon](https://kanarinka.github.io/makethebreastpumpnotsuck/ )<br />[Missing Migrants](https://missingmigrants.iom.int/)|ML Modeling|
-|4.27	|Experimental DH<br />[Feat. Casey Boyle](http://caseyboyle.net/)|Binder et al., [Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)<br />Underwood, [Mapping](https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/#_ftn14)<br />Kishi, et al, [Perturbative GAN](https://arxiv.org/ftp/arxiv/papers/1902/1902.01514.pdf) |Generative Sandboxes|
+|4.27	|Experimental DH<br />[Feat. Casey Boyle](http://caseyboyle.net/)|Binder et al., [Stochastic Parrots](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)<br />Underwood, [Mapping](https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/)<br />Kishi, et al, [Perturbative GAN](https://arxiv.org/ftp/arxiv/papers/1902/1902.01514.pdf) |Generative Sandboxes|
 |5.4	|Tech Demos|Tech Demos|**Tech Demos**|
 |5.11	|**Finals Week**|	**Finals Week**|**Project Due**|
 
